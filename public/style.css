@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.cssstyle{
+    background: purple;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    margin: 0px;
+    color: rgb(250, 190, 190);
+  }
+
+  .largetext {
+      font-size: 3rem;
+  }
+
+  .card{
+      background: coral;
+      box-shadow: 5px 5px gray;
+      border-radius: 5px;
+      margin: 10px;
+      margin-right: 70px;
+      padding: 10px;
+      width: 390px;
+      display: inline-block;
+  }
+
+  .cardTitle{
+    text-align: center;
+    margin-bottom: 10px;
+  }
+
+  .cardDesc{
+      text-align: justify;
+      margin-bottom: 20px;
+  }
+
+  .cardFooter{
+      text-align: center;
+      font-weight: bold;
+  }
